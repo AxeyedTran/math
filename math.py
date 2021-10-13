@@ -1,3 +1,4 @@
+#DEV: Axeyed Kha
 import os, math, time, sys
 d = '\033[1;91m'
 xl = '\033[1;92m'
